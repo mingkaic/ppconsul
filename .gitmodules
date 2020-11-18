@@ -1,0 +1,6 @@
+[submodule "boost-cmake"]
+	path = ext/boost-cmake
+	url = https://github.com/Orphis/boost-cmake.git
+[submodule "curl"]
+	path = ext/curl
+	url = git@github.com:curl/curl.git
